@@ -1,7 +1,7 @@
 # TRABAJO PRÁCTICO
 # NÚMERO 1
 
-![Imagen 3](fotos/imagen3.png)
+![Imagen 3](imagen3.png)
 
 **Materia:** Explotación de Datos  
 **Profesora:** Silvia Pérez  
@@ -37,7 +37,7 @@ Al inicio del período, los dispositivos móviles cuentan con una clara ventaja;
 
 Aquí puedes agregar todo el texto que necesites, incluso varias líneas más, y el posicionamiento de la figura se mantendrá correcto. El texto puede extenderse cuanto sea necesario sin afectar el orden de las subsecciones siguientes.
 
-![Figura 1.1](fotos/imagen1.png)
+![Figura 1.1](imagen1.png)
 **Figura 1.1:** En el siguiente gráfico podemos observar 3 variables diferentes:
 1- La cantidad de personas, medida en millones de habitantes (Eje Y)
 2- Tiempo: Se mide en meses y años (Enero del 2020, Febrero del 2021, etc)
@@ -49,7 +49,7 @@ Finalmente, desde mediados de 2023 hasta la actualidad, los accesos a través de
 
 En la Figura 1.2 se observa un caso espurio que se dio a conocer el 26 de junio de 2020, en plena pandemia. Este gráfico salió a la luz porque el presidente había propuesto seguir con el aislamiento hasta el 17 de julio. Se indican la cantidad de personas internadas en UTI por COVID-19; en el eje "x" se muestran las fechas, y se observa cómo, a medida que avanzaba el tiempo, aumentaba el número de internados. El problema es que tenemos 424 personas internadas en Buenos Aires + CABA y 38 en el resto del país, sumando 462, pero arriba indica 472, lo que llamó la atención de la población.
 
-![Figura 1.2](fotos/imagen2.png)
+![Figura 1.2](imagen2.png)
 **Figura 1.2:** Total de personas internadas en UTI por COVID-19 en diferentes fechas entre el 5 de abril y el 25 de junio de 2020.
 
 ## 2. PARTE B
